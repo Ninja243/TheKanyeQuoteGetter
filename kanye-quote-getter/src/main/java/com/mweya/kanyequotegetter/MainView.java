@@ -1,4 +1,4 @@
-package com.mweya.vaadinrestdemo;
+package com.mweya.kanyequotegetter;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.html.Label;

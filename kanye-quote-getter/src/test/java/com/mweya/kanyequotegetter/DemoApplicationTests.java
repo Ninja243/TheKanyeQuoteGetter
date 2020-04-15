@@ -1,4 +1,4 @@
-package com.mweya.vaadinrestdemo;
+package com.mweya.kanyequotegetter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.mweya.vaadinrestdemo;
+package com.mweya.kanyequotegetter;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
