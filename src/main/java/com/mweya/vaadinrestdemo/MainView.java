@@ -10,6 +10,8 @@ import com.vaadin.flow.router.Route;
 @Route
 public class MainView extends VerticalLayout {
 
+    private static final long serialVersionUID = 1L;
+
     // Elements to add to the view later
     Label text = new Label("This is the Kanye quote getter");
     Button button = new Button("Get a quote", event -> callRestService());
