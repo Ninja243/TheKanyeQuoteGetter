@@ -41,6 +41,7 @@ public class MainView extends VerticalLayout {
         Button close = new Button("Close", event -> dialog.close());
         // Notification.show(result.toString());
         layout.add(new Label(result.toString()));
+        layout.setHorizontalComponentAlignment(Alignment.END, close);
         layout.add(close);
         dialog.add(layout);
         dialog.open();
