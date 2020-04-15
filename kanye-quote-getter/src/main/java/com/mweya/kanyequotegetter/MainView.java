@@ -11,7 +11,6 @@ import org.springframework.web.client.RestTemplate;
 import com.vaadin.flow.component.notification.Notification;
 import com.vaadin.flow.router.Route;
 import com.vaadin.flow.component.dialog.Dialog;
-import com.vaadin.flow.component.panel.Panel;
 
 @Route
 public class MainView extends VerticalLayout {
